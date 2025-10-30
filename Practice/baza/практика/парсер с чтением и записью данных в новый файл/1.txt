@@ -1,0 +1,12 @@
+Max, 21
+Alex, 19
+Mark, 18
+Piter, 18
+Vova, 19
+Nastia, 22
+Fadin, 15
+Roma, 17
+Vovchik, 12
+Gosha, 24
+joni, 34
+Alfred, 4
