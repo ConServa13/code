@@ -3,4 +3,5 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 TOKEN = "8522989660:AAGqa6nVyW6eIqgLNNM9YublaXo_MdqKlNo"
 
-async def start()
+#async def start():
+
