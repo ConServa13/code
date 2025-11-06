@@ -15,4 +15,4 @@ for quote in quotes:
 class_="text").text
     author = quote.find("small",
 class_="author")
-    print(f"{text} - {author}".encode('utf-8', 'ignore').decode('utf-8'))
+    print(f"{text} - {author}".encode('utf-8', 'ignore').decode('utf-8')) 
